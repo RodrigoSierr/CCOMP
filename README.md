@@ -1,1 +1,2 @@
 # CCOMP
+Rodrigo Sierra
